@@ -39,7 +39,7 @@ This project is ideal for small businesses, individual shop owners, or Excel ent
 
 ---
 
-## 🖼 Sample Screenshot
+##  Sample Screenshot
 
 Here’s a preview of the Excel Dashboard:
 
