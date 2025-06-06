@@ -43,4 +43,4 @@ This project is ideal for small businesses, individual shop owners, or Excel ent
 
 You can add a screenshot to showcase the dashboard:
 ```markdown
-![Inventory Dashboard](inventory_dashboard.png)
+![Inventory Dashboard](automated_inventory.png)
