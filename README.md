@@ -41,6 +41,9 @@ This project is ideal for small businesses, individual shop owners, or Excel ent
 
 ## 🖼 Sample Screenshot
 
-You can add a screenshot to showcase the dashboard:
-```markdown
-![Inventory Dashboard](automated_inventory.png)
+Here’s a preview of the Excel Dashboard:
+
+![Inventory Dashboard Screenshot](automated_inventory.png)
+<!-- Replace the above path with your actual image path or URL -->
+
+---
